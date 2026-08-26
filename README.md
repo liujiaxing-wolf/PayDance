@@ -119,6 +119,7 @@ Remove-Item "$env:APPDATA\com.masterbao.paydance\salary-settings.json"
 
 ## 相关文档
 
+- [Atoll × 薪跳融合项目文档中心](项目文档/README.md)
 - [常见问题](docs/FAQ.md)
 - [架构与修改导航](docs/ARCHITECTURE.md)
 - [产品定位与边界](docs/PRODUCT.md)
