@@ -352,10 +352,10 @@ describe("repository metadata", () => {
 
   it("keeps platform positioning Windows-focused but community-extensible", () => {
     expect(read("README.md")).toContain(
-      "薪跳 PayDance 是一款桌面实时工资看板。配置薪资与上下班时间后",
+      "薪跳 PayDance 是一个本地优先的桌面实时工资看板",
     );
     expect(read("docs/README_EN.md")).toContain(
-      "PayDance (薪跳) is a desktop real-time salary dashboard.",
+      "PayDance (薪跳) is a local-first desktop real-time salary dashboard.",
     );
     expect(read("docs/PRODUCT.md")).toContain("这并不排斥 macOS、Linux 等平台");
     expect(read(".github/CONTRIBUTING.md")).toContain("平台适配贡献需附验证边界");
