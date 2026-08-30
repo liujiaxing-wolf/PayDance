@@ -6,7 +6,7 @@
 <h1 align="center">PayDance 薪跳</h1>
 
 <p align="center">
-  Put "the money you are earning today" on your desktop, and watch it grow, second by second
+  Turn your workday into visible earnings progress
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ## What It Is
 
-PayDance (薪跳) is a desktop real-time salary dashboard. Set your salary and working hours, and it shows your income growing second by second on your desktop, making the value of your working time visible.
+PayDance (薪跳) is a local-first desktop real-time salary dashboard. Set your pay and working schedule, and it turns today's working time into live earnings and countdown progress. No account is required, and all data stays on your computer.
 
 The main window shows today's earnings, work progress, time remaining, and daily estimate. The mini floating window keeps only the amount, ready for a quick glance from the corner of your screen.
 
